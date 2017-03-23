@@ -1,0 +1,6 @@
+# Compile/Transpile Artifacts
+[Bb]in
+[Oo]bj
+
+# VSCode specific needs
+.vscode
