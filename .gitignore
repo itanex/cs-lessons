@@ -4,3 +4,8 @@
 
 # VSCode specific needs
 .vscode
+
+# User specific files
+.vscode
+*.suo
+*.user
